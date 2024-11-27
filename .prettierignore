@@ -1,0 +1,5 @@
+!.storybbook
+!.jest
+build
+coverage
+.next
