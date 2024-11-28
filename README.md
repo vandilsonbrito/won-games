@@ -1,1 +1,2 @@
-### This is a nextjs with configured tests (Jest/React-testing-Library) boilerplate
+## Won Games
+#### Building with the course 'Advanced React: app with NextJS, Strapi, Styled Components, Jest/React-Testing-Library, Storybook' 
